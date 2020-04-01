@@ -11,14 +11,14 @@ Utilities to forward content to a Raspberry Pi connected to a a 3.5" TFT screen.
 
 #### How to use
 
-- Open an ssh session
+- SSH into your pi
 - Navigate to `lcdpi`
 - Run `$ python3 <script>.py`
 
 #### What's included?
 
-- `urldrop.py` is a utility to input a url in your ssh session which will be cast to the lcd
-- `giphytv.py` allows you to input a keyword in your ssh session that will display random gifs related to that keyword on the lcd (using [giphytv](http://tv.giphy.com/work%20remote))
+- `urldrop.py` is a utility to input a url in your SSH session which will be cast to the lcd
+- `giphytv.py` allows you to input a keyword in your SSH session that will display random gifs related to that keyword on the lcd (using [giphytv](http://tv.giphy.com/work%20remote))
 
 ![walk into the club like...](https://media.giphy.com/media/ZdU3bTTc1WWStZM5lm/giphy.gif)
 
