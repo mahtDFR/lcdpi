@@ -1,4 +1,4 @@
-Utilities to forward content to a Raspberry Pi connected to a a 3.5" TFT screen.
+Utilities to forward content to a Raspberry Pi connected to a 3.5" TFT screen.
 
 #### Hardware requirements
 
