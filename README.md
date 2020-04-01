@@ -8,6 +8,7 @@ Utilities to cast content to a Raspberry Pi connected to a 3.5" TFT screen.
 #### Software requirements
 
 - Python 3
+- Chromium
 
 #### How to use
 
