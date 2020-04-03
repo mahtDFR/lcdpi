@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-print("input your url:")
+print("paste url:")
 x = input()
 command = "DISPLAY=:0 chromium-browser --disable-infobars --kiosk --app=" + str(x)
 
