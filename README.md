@@ -19,7 +19,7 @@ Utilities to cast content to a Raspberry Pi connected to a 3.5" TFT screen.
 #### What's included?
 
 - [urldrop.py](https://github.com/mahtDFR/lcdpi/blob/master/urldrop.py) is a utility to drop a URL into your SSH session that will be cast to the lcd
-- [yturldrop.py](https://github.com/mahtDFR/lcdpi/blob/master/yturldrop.py) is a utility to drop a YouTube URL into your SSH session that will be cast to the lcd (unstable)
+- [yturldrop.py](https://github.com/mahtDFR/lcdpi/blob/master/yturldrop.py) is a utility to drop a YouTube URL into your SSH session that will be cast to the lcd (semi-working)
 - [giphytv.py](https://github.com/mahtDFR/lcdpi/blob/master/giphytv.py) allows you to input a keyword into your SSH session that will display random gifs related to that keyword on the lcd (using [giphytv](http://tv.giphy.com/work%20remote))
 
 
